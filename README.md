@@ -1,4 +1,4 @@
-# Bug-Bounty
+# Bug-Bounty.
 Bug Bounty Walkthrough, Process and Cheat Sheets
 
              **  Relay on Process rather than Tools   **
@@ -12,6 +12,7 @@ Bug Bounty Walkthrough, Process and Cheat Sheets
 6. Post Exploitation
 7. Reporting
 8. Remediation 
+
 
 
 
