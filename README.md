@@ -1,6 +1,8 @@
 # Bug-Bounty.
 Bug Bounty Walkthrough, Process and Cheat Sheets
 
+Cheat Sheet Links
+1. Sub Domains Enumeration - https://pentester.land/blog/subdomains-enumeration-cheatsheet/#
              **  Relay on Process rather than Tools   **
 
 **Phases:**
